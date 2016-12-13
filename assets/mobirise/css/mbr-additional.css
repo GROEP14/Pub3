@@ -642,6 +642,11 @@ h6,
   font-size: 12px;
   text-align: left;
 }
+#contacts1-24 P {
+  color: #7c706b;
+}
+
+
 
 
 
@@ -796,4 +801,21 @@ h6,
   color: #7c706b;
   font-size: 14px;
   text-align: left;
+}
+#header3-1x .mbr-section-title,
+#header3-1x .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1x SMALL {
+  color: #7c706b;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 14px;
+}
+#header3-1x H3 {
+  color: #7c706b;
+  font-family: 'Raleway', sans-serif;
+  font-size: 25px;
+}
+#contacts1-24 P {
+  color: #7c706b;
 }
