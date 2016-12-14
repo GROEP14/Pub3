@@ -838,6 +838,9 @@ h6,
 
 
 
+#gallery3-2g LI {
+  color: #000000;
+}
 #menu-28 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -899,6 +902,9 @@ h6,
 #menu-28 .link[aria-expanded="true"],
 #menu-28 .dropdown-item[aria-expanded="true"] {
   color: #cccccc!important;
+}
+#gallery1-2f LI {
+  font-size: 15px;
 }
 #contacts1-29 P {
   color: #7c706b;
