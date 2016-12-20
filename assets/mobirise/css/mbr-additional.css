@@ -528,6 +528,7 @@ h6,
 
 
 
+
 #menu-2w .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -636,9 +637,10 @@ h6,
   text-align: left;
 }
 #features3-1e P {
-  color: #7c706b;
+  color: #a38f84;
   font-size: 12px;
   text-align: left;
+  font-family: 'Raleway', sans-serif;
 }
 #contacts1-24 P {
   color: #7c706b;
